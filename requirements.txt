@@ -1,0 +1,12 @@
+ogb 
+numpy
+scipy
+tqdm
+torch==1.11.0
+torchmetrics
+pytorch_lightning
+torch-scatter -f https://pytorch-geometric.com/whl/torch-1.11.0+cu102.html
+torch-sparse -f https://pytorch-geometric.com/whl/torch-1.11.0+cu102.html
+torch-cluster -f https://pytorch-geometric.com/whl/torch-1.11.0+cu102.html
+torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.11.0+cu102.html
+git+https://github.com/pyg-team/pytorch_geometric.git
