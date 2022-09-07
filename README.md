@@ -33,6 +33,7 @@ Other required python libraries include: numpy, scipy, tqdm etc. These are found
 | Model | Dataset | Valid AP / AUROC | Test AP / AUROC | \#Parameters  |
 |:-|:-|:-|:-|:-|
 | HGT | Cora | 92.3 | - | 19M |
+| SEAL | Cora | 94.3 | 92.6 | 96K |
 
 ## References
 [1] M. Zhang and Y. Chen: [Inductive Matrix Completion Based On Graph Neural Networks](https://arxiv.org/abs/1904.12058)
